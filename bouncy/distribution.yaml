@@ -545,6 +545,11 @@ repositories:
       url: https://github.com/ros/kdl_parser.git
       version: bouncy
     status: maintained
+  kitti360_ros_player:
+    doc:
+      type: git
+      url: https://github.com/dcmlr/kitti360_ros_player
+      version: 1.0
   laser_geometry:
     release:
       tags:
